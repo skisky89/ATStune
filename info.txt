@@ -1,0 +1,3 @@
+Normal is normal, Sport is usually B, Cruise is usually A, TUTD has it's own tables.
+
+You can check the Pattern A/B types by checking the params on the Shift Propoerties tab.
